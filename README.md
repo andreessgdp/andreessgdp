@@ -19,7 +19,7 @@
 
 ## About me
 
-I'm a 20-year-old developer from Spain finishing my degree in **Software & Applications Engineering** while building real products in parallel. I started coding at 14 and haven't stopped since — I've shipped apps, automation systems, and SaaS products that are actively used by real businesses.
+I'm a 21-year-old developer from Spain finishing my degree in **Software & Applications Engineering** while building real products in parallel. I started coding at 14 and haven't stopped since — I've shipped apps, automation systems, and SaaS products that are actively used by real businesses.
 
 I believe the best way to learn is to build things that actually work. My focus right now is on **AI-powered automation** and **Full Stack SaaS** — helping businesses eliminate repetitive workflows through intelligent systems.
 
