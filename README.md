@@ -26,7 +26,7 @@ I believe the best way to learn is to build things that actually work. My focus 
 - 🏗️ Founder of **Intelligex Automations** — AI & API automation agency for SMEs
 - 💼 Full Stack Dev at **FransData Tech Ventures** — sports center management platform in production
 - 🎓 Studying **Ingeniería Informática** at Universidad de Valladolid
-- ⚡ Fun fact: I run a gas station shift to fund my startup ambitions — the grind is literal
+- ⚡ Fun fact: My first ever project was a Counter-Strike case opening simulator written in C and run entirely in the terminal — aged 14, before I even knew what a framework was
 
 ---
 
