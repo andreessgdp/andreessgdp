@@ -36,7 +36,7 @@ I believe the best way to learn is to build things that actually work. My focus 
 |--------|-------------|--------|
 | [**Stylofy**](https://stylofy.es) | AI appointment manager for hair salons — answers calls & WhatsApp 24/7 | 🚀 Live |
 | [**SerpEye**](https://serpeye.intelligex.es/inicio) | B2B lead scraping platform — find businesses by sector, city & country | 🔨 Building |
-| **Intelligex Automations** | AI automation agency for local businesses & SMEs | 🚀 Live |
+| [**Intelligex Automations**](https://intelligex.es/) | AI automation agency for local businesses & SMEs | 🚀 Live |
 
 ---
 
